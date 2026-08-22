@@ -34,6 +34,9 @@ distribution.
 • Interactive Filters: Category and registration month slicers.
 - <a href="https://github.com/yashxswi/E-commerce-sales-analysis-dashboard/blob/main/Screenshot%202026-08-09%20202336.png">Dashboard view <a/>
 
+<img width="1333" height="443" alt="Screenshot 2026-08-09 202336" src="https://github.com/user-attachments/assets/be1aec78-7b69-45d6-9496-7e2b029ea1f8" />
+
+
 ## Key Insights
 • Electronics generated the highest sales.
 • Organic Search was the leading acquisition channel.
