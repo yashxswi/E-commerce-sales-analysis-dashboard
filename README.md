@@ -1,4 +1,4 @@
-## E-Commerce Sales Dashboard 
+## E-Commerce Sales Dashboard 💡 
 An interactive E-Commerce Sales Dashboard built in Microsoft Excel to analyze sales performance
 using Pivot Tables, Pivot Charts, Slicers, and KPI cards. The dashboard converts raw transactional
 data into actionable business insights.
@@ -21,7 +21,7 @@ distribution.
 • Data Cleaning
 • Data Visualization
 
-## Dashboard Features
+## Dashboard Features 📌 
 • KPIs: Total Sales (USD) and Average Sales (USD)
 • Sales by Category: Compare category performance.
 • Sales by Payment Method: Analyze customer payment preferences.
@@ -50,7 +50,7 @@ distribution.
 • Reporting
 • Interactive Reporting
 
-## 📌 Conclusion
+## Conclusion
 
 This project was a great opportunity to strengthen my skills in **Excel, Data Analysis, Data Visualization, and Business Intelligence** while working with a real-world e-commerce dataset.
 The dashboard enables stakeholders to monitor business performance, identify trends, evaluate
