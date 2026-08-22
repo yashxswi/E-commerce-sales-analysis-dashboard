@@ -31,6 +31,7 @@ distribution.
 • Sales by Country: Geographic sales distribution.
 • Sales by Membership: Compare Free, Silver, Gold, and Platinum members.
 • Interactive Filters: Category and registration month slicers.
+Screenshot 2026-08-09 202336.png
 
 ## Key Insights
 • Electronics generated the highest sales.
