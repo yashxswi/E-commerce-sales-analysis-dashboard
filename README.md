@@ -6,7 +6,7 @@ using Pivot Tables, Pivot Charts, Slicers, and KPI cards. The dashboard converts
 data into actionable business insights.
 
 ## Dataset used
-- <a href="https://github.com/yashxswi/E-commerce-sales-analysis-dashboard/blob/main/E-Commerce%20sales%20dashboard.xlsx"
+- <a href="https://github.com/yashxswi/E-commerce-sales-analysis-dashboard/blob/main/E-Commerce%20sales%20dashboard.xlsx">Dataset View <a/>
 
 ## Objective
 Provide a centralized view of sales performance by analyzing revenue, categories, payment
