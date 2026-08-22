@@ -50,9 +50,22 @@ distribution.
 • Reporting
 • Interactive Reporting
 
-## Business Outcome
+## 📌 Conclusion
+
+This project was a great opportunity to strengthen my skills in **Excel, Data Analysis, Data Visualization, and Business Intelligence** while working with a real-world e-commerce dataset.
 The dashboard enables stakeholders to monitor business performance, identify trends, evaluate
 marketing effectiveness, and support data-driven decision-making through an intuitive interface.
 
-## Author
-Yashaswi Pokhriyal
+I’m continuously learning and building more data-driven projects to improve my analytical and technical skills.
+
+## 🤝 Let’s Connect
+
+If you found this project interesting or have any feedback, feel free to connect with me
+📧 **Email:** yashupokhriyal23@gmail.com
+
+⭐ If you found this project useful, consider giving the repository a **star**!
+
+---
+
+### #Excel #DataAnalysis #DataAnalytics #Dashboard #DataVisualization #BusinessIntelligence #EcommerceAnalytics #MicrosoftExcel #PivotTables #DataDriven
+
