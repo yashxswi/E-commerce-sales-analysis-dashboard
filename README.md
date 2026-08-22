@@ -1,6 +1,4 @@
-## E-Commerce Sales Dashboard
-
-## Project Overview
+## E-Commerce Sales Dashboard 
 An interactive E-Commerce Sales Dashboard built in Microsoft Excel to analyze sales performance
 using Pivot Tables, Pivot Charts, Slicers, and KPI cards. The dashboard converts raw transactional
 data into actionable business insights.
@@ -32,7 +30,6 @@ distribution.
 • Sales by Country: Geographic sales distribution.
 • Sales by Membership: Compare Free, Silver, Gold, and Platinum members.
 • Interactive Filters: Category and registration month slicers.
-- <a href="https://github.com/yashxswi/E-commerce-sales-analysis-dashboard/blob/main/Screenshot%202026-08-09%20202336.png">Dashboard view <a/>
 
 <img width="1333" height="443" alt="Screenshot 2026-08-09 202336" src="https://github.com/user-attachments/assets/be1aec78-7b69-45d6-9496-7e2b029ea1f8" />
 
